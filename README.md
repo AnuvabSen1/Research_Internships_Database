@@ -10,7 +10,7 @@ The following are some global research internship positions:
 2. [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
-5. ~~CRUISE Program by Georgia Tech University~~
+5. [Summer Undergraduate Research in Engineering/Sciences (SURE)](https://sure.gatech.edu/apply)
 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 7. [Summer at EPFL](https://summer.epfl.ch/)
 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
