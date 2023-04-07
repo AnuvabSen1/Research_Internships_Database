@@ -1,6 +1,8 @@
 # Research Internships for B-tech students
 
-#### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
+#### This is a non-exhaustive list of opportunities available to students, including undergraduate, graduate, and PhD students, with a focus on opportunities available to Indian students & abroad!!!
+
+It's important to note that opportunities may vary depending on the region and country, and it's always recommended to research and verify the authenticity and relevance of any opportunity before applying. Additionally, students should also check the eligibility criteria, application deadlines, and any other requirements for each opportunity.
 
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request be timely reviewed and added in the repository.
 
